@@ -1,0 +1,33 @@
+One UI Kit
+Copyright 2026 The One UI Kit Authors
+
+This project originated as a reorganisation and refinement of the following
+upstream project:
+
+  OneUIProject/oneui-design
+  https://github.com/OneUIProject/oneui-design
+
+Its companion library, OneUIProject/oneui-core (SESL), supplies the base
+widgets and theme used by this project:
+
+  https://github.com/OneUIProject/oneui-core
+
+Both upstream repositories are distributed under the MIT License,
+Copyright (c) 2022 Yanndroid & BlackMesa123. This repository adopts the same
+MIT License (see LICENSE). Their copyright notice and the full MIT license
+text are retained in THIRD_PARTY_LICENSES.md and continue to apply to the
+upstream components.
+
+The following artifacts are resolved from Maven repositories at build time and
+are not redistributed in this repository:
+
+  io.github.oneuiproject:design:1.2.6
+  io.github.oneuiproject.sesl:material:1.5.0
+  io.github.oneuiproject.sesl:appcompat:1.4.0
+
+The SESL artifacts are derived from Android Jetpack and Material Components
+for Android, which are licensed under the Apache License 2.0.
+
+One UI is a trademark of Samsung Electronics Co., Ltd. This project is an
+unofficial implementation and is not affiliated with, authorised by, or
+endorsed by Samsung Electronics Co., Ltd.
